@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
 
-# AIM:
+## AIM:
 
 To develop a simple webserver to serve html programming pages.
 
@@ -69,11 +69,14 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ## Server Output:
+
 ![Screenshot from 2023-03-30 08-56-43](https://user-images.githubusercontent.com/118889454/228721582-af805220-b551-4afb-821c-4c38898b7010.png)
 
 ## Client Output:
+
 ![Screenshot from 2023-03-30 08-58-36](https://user-images.githubusercontent.com/118889454/228721617-fbb8127d-0b75-42d1-8d6f-9b2db49a5bb9.png)
 
 
 ## RESULT:
+
 The program is executed succesfully.
